@@ -1,3 +1,3 @@
-import "@algolia/autocomplete-theme-classic/dist/theme.css";
+import "@algolia/autocomplete-theme-classic";
 
 console.log('Hello World!');
